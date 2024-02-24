@@ -50,8 +50,6 @@ Evaluate the model with the testing data.
 ### Name:BHUVANESHWARI M
 ### Register Number:212223230033
 ```
-Name:BHUVANESHWARI M
-Register Number:212223230033
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -105,6 +103,8 @@ ai.predict(X_n1_1)
 
 ### Test Data Root Mean Squared Error
 
+![Screenshot 2024-02-24 120623](https://github.com/Bhuvana23013531/basic-nn-model/assets/147125678/19f0a201-bc59-4ee9-85db-c69ee8c1e179)
+
 ![Screenshot 2024-02-19 194732](https://github.com/Bhuvana23013531/basic-nn-model/assets/147125678/44a9c671-da71-46fd-96ff-d17f1d592a59)
 
 
@@ -115,4 +115,4 @@ ai.predict(X_n1_1)
 
 ## RESULT
 
-A neural network regression model for the given dataset has been developed Sucessfully.
+A neural network regression model for the given dataset has been developed Successfully.
